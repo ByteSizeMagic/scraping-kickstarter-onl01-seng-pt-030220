@@ -19,7 +19,7 @@ def create_project_hash
   # project.css("p.bbcard_blurb").text
 
   # location:
-  # project.css("span.location_name").text
+  # project.css("li.location_name a").text
 
   binding.pry
 end
