@@ -21,6 +21,8 @@ def create_project_hash
   # location:
   # project.css("span.location-name").text
 
+  
+
   binding.pry
 end
 
